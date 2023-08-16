@@ -11,4 +11,8 @@ featuredImage:
   src: ~
   alt: ~
   caption: ~
+
+learnMoreButton:
+  link: *insert URL*
+  label: Read More
 ---
