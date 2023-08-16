@@ -11,8 +11,8 @@ featuredImage:
   src: ~
   alt: ~
   caption: ~
-
 learnMoreButton:
-  link: *insert URL*
+  link: /about/
   label: Read More
+
 ---
